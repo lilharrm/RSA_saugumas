@@ -1,0 +1,10 @@
+C:\Users\Herman Pantiuchov\source\repos\RSA_saugumas\RSA_saugumas\obj\Debug\RSA_saugumas.csprojAssemblyReference.cache
+C:\Users\Herman Pantiuchov\source\repos\RSA_saugumas\RSA_saugumas\obj\Debug\RSA_saugumas.Form1.resources
+C:\Users\Herman Pantiuchov\source\repos\RSA_saugumas\RSA_saugumas\obj\Debug\RSA_saugumas.Properties.Resources.resources
+C:\Users\Herman Pantiuchov\source\repos\RSA_saugumas\RSA_saugumas\obj\Debug\RSA_saugumas.csproj.GenerateResource.cache
+C:\Users\Herman Pantiuchov\source\repos\RSA_saugumas\RSA_saugumas\obj\Debug\RSA_saugumas.csproj.CoreCompileInputs.cache
+C:\Users\Herman Pantiuchov\source\repos\RSA_saugumas\RSA_saugumas\bin\Debug\RSA_saugumas.exe.config
+C:\Users\Herman Pantiuchov\source\repos\RSA_saugumas\RSA_saugumas\bin\Debug\RSA_saugumas.exe
+C:\Users\Herman Pantiuchov\source\repos\RSA_saugumas\RSA_saugumas\bin\Debug\RSA_saugumas.pdb
+C:\Users\Herman Pantiuchov\source\repos\RSA_saugumas\RSA_saugumas\obj\Debug\RSA_saugumas.exe
+C:\Users\Herman Pantiuchov\source\repos\RSA_saugumas\RSA_saugumas\obj\Debug\RSA_saugumas.pdb
